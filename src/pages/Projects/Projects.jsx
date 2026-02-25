@@ -4,7 +4,7 @@ import { useRef, useEffect } from "react";
 import PropTypes from "prop-types";
 import studiAiImage from "../../assets/studiAiImage.png";
 import osImage from "../../assets/osImage.png";
-import connecticxImage from "../../assets/connecticxImage.png";
+import connecticxImage from "../../assets/ConnecticxImage.png";
 const projects = [
   {
     title: "Connecticx – Full Stack Social Platform",
