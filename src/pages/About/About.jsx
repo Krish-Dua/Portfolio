@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero.avif";
+import HeroImg from "@/assets/images/hero.png";
 export default function About() {
   return (
     <>
