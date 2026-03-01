@@ -1,19 +1,19 @@
-# Krish Dua Portfolio
+﻿# 🚀 Krish Dua Portfolio
 
-## Overview
+## 📖 Overview
 This is my personal developer portfolio built to showcase who I am, what I build, and how I approach software development.  
 It highlights my skills, projects, education, and contact details in a modern, animated single-page experience.
 
-## Features
-- Developer-focused hero section with animated text and code-style intro
-- About section with personal summary
-- Skills section with categorized tech stack and interactive icon cloud
-- Projects section with GitHub + live demo links
-- Education section with animated cards
-- Contact form powered by Web3Forms
-- Fully responsive layout for desktop and mobile
+## ✨ Features
+- 💻 Developer-focused hero section with animated text and code-style intro
+- 🙋 About section with personal summary
+- 🧠 Skills section with categorized tech stack and interactive icon cloud
+- 📂 Projects section with GitHub + live demo links
+- 🎓 Education section with animated cards
+- 📨 Contact form powered by Web3Forms
+- 📱 Fully responsive layout for desktop and mobile
 
-## Tech Stack
+## 🛠️ Tech Stack
 - React 18
 - Vite 7
 - Tailwind CSS
@@ -23,7 +23,7 @@ It highlights my skills, projects, education, and contact details in a modern, a
 - Lucide React and React Icons
 - Prism.js
 
-## Setup
+## ⚙️ Setup
 1. Install dependencies:
 ```bash
 npm install
@@ -49,15 +49,15 @@ npm run build
 npm run preview
 ```
 
-## Live Link
-- Portfolio: https://krish-dua.onrender.com
+## 🌐 Live Link
+- 🔗 Portfolio: https://krish-dua.onrender.com
 
-## Author
+## 👤 Author
 Krish Dua
-- GitHub: https://github.com/krish-dua
-- LinkedIn: https://www.linkedin.com/in/krish-dua-6a8a05347/
-- Email: krishdua747@gmail.com
+- 🐙 GitHub: https://github.com/krish-dua
+- 💼 LinkedIn: https://www.linkedin.com/in/krish-dua-6a8a05347/
+- 📧 Email: krishdua747@gmail.com
 
-## Notes
-- If the contact form does not work, verify your Web3Forms access key.
-- If a key was exposed publicly, rotate it from your Web3Forms dashboard.
+## 📝 Notes
+- ⚠️ If the contact form does not work, verify your Web3Forms access key.
+- 🔐 If a key was exposed publicly, rotate it from your Web3Forms dashboard.
